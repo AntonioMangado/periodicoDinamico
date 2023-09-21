@@ -35,7 +35,7 @@ img {
     width: 70%;
     opacity: 0;
     transition: .5s ease;
-    background-color: #008CBA;
+    background-color: #CCC8AA;
 }
 
 .title-article:hover .overlay {
@@ -43,7 +43,7 @@ img {
   }
 
 .text {
-    color: white;
+    color: #7D7C7C;
     font-size: 60px;
     position: absolute;
     top: 50%;
